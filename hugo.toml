@@ -1,0 +1,32 @@
+baseURL = 'http://localhost:1313/'
+title = '三江水 杏林月'
+subtitle = '一位英国医者的随笔与虚构写作'
+languageCode = 'zh-cn'
+theme = 'PaperMod'
+
+[params]
+  # 主页显示的信息
+  ShowSubtitle = true
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowPageInfo = true
+
+# 菜单配置（可选）
+[[menu.main]]
+  identifier = "posts"
+  name = "文章"
+  url = "/posts/"
+  weight = 1
+
+[[menu.main]]
+  identifier = "about"
+  name = "关于我"
+  url = "/about/"
+  weight = 2
+
+[[menu.main]]
+  identifier = "categories"
+  name = "分类"
+  url = "/categories/"
+  weight = 3
