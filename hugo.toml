@@ -1,4 +1,4 @@
-baseURL = 'http://localhost:1313/'
+baseURL = 'https://threeriversblog.pages.dev/'
 title = '三江水 杏林月'
 subtitle = '一位英国医者的随笔与虚构写作'
 languageCode = 'zh-cn'
