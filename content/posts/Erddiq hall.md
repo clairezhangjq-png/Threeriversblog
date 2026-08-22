@@ -2,7 +2,7 @@
 date = '2026-08-22T11:09:54+01:00'
 draft = false
 title = 'Erddig Hall：一座贵族的“时光胶囊”'
-categories = \['山水之间']
+categories = ['山水之间']
 +++
 威尔士的Erddig Hall，又一处贵族宅邸，却有着别样的温度。
 
